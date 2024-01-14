@@ -2,11 +2,11 @@
 const siteMetadata = {
   title: "lord's blog",
   author: 'lordacademe',
-  headerTitle: 'Yzal',
+  headerTitle: 'LordAcademe',
   description: 'A blog for me to add some accountability to my life and look back on my younger self as I grow.',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://lazy-blog.vercel.app/',
+  siteUrl: 'https://lordacademe.vercel.app/',
   siteRepo: 'https://github.com/lord-yzal/blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
